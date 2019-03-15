@@ -1,0 +1,10 @@
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\bin\Debug\DB_lab_Project.exe.config
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\bin\Debug\DB_lab_Project.exe
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\bin\Debug\DB_lab_Project.pdb
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\obj\Debug\DB_lab_Project.csprojAssemblyReference.cache
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\obj\Debug\DB_lab_Project.Form1.resources
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\obj\Debug\DB_lab_Project.Properties.Resources.resources
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\obj\Debug\DB_lab_Project.csproj.GenerateResource.cache
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\obj\Debug\DB_lab_Project.csproj.CoreCompileInputs.cache
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\obj\Debug\DB_lab_Project.exe
+C:\Users\Death-Stroke\source\repos\DB_lab_Project\DB_lab_Project\obj\Debug\DB_lab_Project.pdb
